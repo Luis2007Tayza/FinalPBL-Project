@@ -28,6 +28,10 @@ h1{
     padding: 53px;
     display: grid;
     grid-template-columns: 25.3% 25.3% 25.3% 25.3%; /*flex direction: row*/
+    flex-wrap: wrap;
+    flex-direction: row;
+    grid-template-columns: 25.3% 25.3% 25.3% 25.3%;
+}
 }
 
 .menu_card{
